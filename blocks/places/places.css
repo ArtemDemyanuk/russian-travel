@@ -7,6 +7,12 @@
   padding: 0 148px 92px;
 }
 
+@media screen and (max-width: 1280px) {
+  .places {
+      row-gap: 73px;
+      padding: 0 48px 90px;
+  }
+
 @media screen and (max-width: 1024px) {
   .places {
       row-gap: 73px;
