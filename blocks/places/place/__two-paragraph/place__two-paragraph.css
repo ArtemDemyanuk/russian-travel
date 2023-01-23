@@ -1,7 +1,12 @@
-.place__two-paragraph_one {
-  margin: 0;
+.place__two-paragraph {
+  margin: 0 0 26px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #fff;
+}
+.place__two-paragraph:last-of-type {
+  margin-bottom: 0;
 }
 
-.place__two-paragraph_two {
-  margin: 25px 0 0 0;
-}
